@@ -1,0 +1,5 @@
+D:
+
+cd OneDrive - McGill University\School\Fall 2021\BIEN 410\BIEN410_FinalProject\BIEN410_FinalProject\testing
+
+python3 testing.py -p ../output_file/outfile.txt -l ../training_data/labels.txt
